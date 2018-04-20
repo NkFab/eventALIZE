@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "splash": {
+      "backgroundColor": "#fff",
+      "image": "./assets/images/eventalize_logo.png",
+      "resizeMode": "contain"
+    },
+    "androidStatusBarColor": "#fff",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#fff"
+    }
+  }
+}
