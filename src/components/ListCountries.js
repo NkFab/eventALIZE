@@ -8,7 +8,7 @@ class ListCountries extends PureComponent {
     // }
     render() {
         return (
-            <TouchableOpacity onPress={() => this.props.navigation('Region')}>
+            <TouchableOpacity onPress={() => alert(this.props.name)}>
                 <ListItem
                     // onPress={() => this.props.navigation.navigate('Region', { ...item })}
                     // button  onPress={this.renderOnPress}

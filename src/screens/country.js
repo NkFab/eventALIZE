@@ -95,7 +95,6 @@ class Country extends Component {
     <ListCountries
       name={item.name}
       code={item.code}
-      navigation={navigation.navigate}
     />
   );
   render() {
