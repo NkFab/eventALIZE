@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { View, Text, FlatList, ActivityIndicator, TouchableNativeFeedback, StatusBar } from "react-native";
 import { List, ListItem, SearchBar, Header, Icon } from 'react-native-elements'
-
+import ListRegions from '../components/ListRegions'
 class Region extends Component {
     
     constructor(props) {
